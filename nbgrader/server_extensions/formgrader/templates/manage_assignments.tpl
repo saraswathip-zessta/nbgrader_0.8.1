@@ -10,7 +10,7 @@ var is_lab = {% if is_lab %}true{% else %}false{% endif %};
 {%- endblock -%}
 
 {%- block title -%}
-Manage Assignments
+Assignments
 {%- endblock -%}
 
 {%- block sidebar -%}
